@@ -1,6 +1,6 @@
 # payline-java
 
-[![Circle CI](https://circleci.com/gh/finix-payments/payline-java.svg?style=svg&circle-token=bd006401ffc2907c157e112576504319f0d83523)](https://circleci.com/gh/finix-payments/payline-java)
+[![Circle CI](https://circleci.com/gh/Payline/payline-java/tree/master.svg?style=svg)](https://circleci.com/gh/Payline/payline-java/tree/master)
 
 ## Usage
 See test class [ProcessingClientScenarioTest](https://github.com/finix-payments/payline-java/blob/master/src/test/java/io/payline/payments/processing/client/ProcessingClientScenarioTest.java) for more details.
