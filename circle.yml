@@ -18,15 +18,15 @@ test:
   override:
     - echo "Dont have tests"
 
-#deployment:
-#  snapshot:
-#    branch: master
-#    owner: finix-payments
-#    commands:
-#      - mvn deploy -DskipTests=true -s settings.xml
+deployment:
+  snapshot:
+    branch: master
+    owner: Payline
+    commands:
+      - mvn deploy -DskipTests=true -s settings.xml
 #  release:
 #    branch: staged
-#    owner: finix-payments
+#    owner: Payline
 #    commands:
 #     - git config user.name "Sexy Deploybot"
 #     - git config user.email "dev@finixpayments.com"

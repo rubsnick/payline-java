@@ -9,9 +9,9 @@
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>processing-java</name>
-    <description>Processing API Java client.</description>
-    <url>https://www.finixpayments.com</url>
+    <name>payline-java</name>
+    <description>Payline API Java client.</description>
+    <url>https://paylinedata.com/</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -163,9 +163,9 @@
     </licenses>
 
     <scm>
-        <url>git@github.com:finix-payments/payline-java.git</url>
-        <connection>scm:git:git@github.com:finix-payments/payline-java.git</connection>
-        <developerConnection>scm:git:git@github.com:finix-payments/payline-java.git
+        <url>git@github.com:Payline/payline-java.git</url>
+        <connection>scm:git:git@github.com:Payline/payline-java.git</connection>
+        <developerConnection>scm:git:git@github.com:Payline/payline-java.git
         </developerConnection>
         <tag>HEAD</tag>
     </scm>
@@ -173,10 +173,10 @@
     <developers>
         <developer>
             <id>support</id>
-            <name>Finix Payments</name>
-            <email>support@finixpayments.com</email>
-            <organization>Finix</organization>
-            <organizationUrl>https://www.finixpayments.com</organizationUrl>
+            <name>Payline Data</name>
+            <email>support@paylinedata.com</email>
+            <organization>Payline Data</organization>
+            <organizationUrl>https://paylinedata.com/</organizationUrl>
             <timezone>-7</timezone>
         </developer>
     </developers>
@@ -211,7 +211,7 @@
     </distributionManagement>
 
     <issueManagement>
-        <url>https://github.com/finix-payments/payline-java/issues</url>
+        <url>https://github.com/Payline/payline-java/issues</url>
         <system>GitHub Issues</system>
     </issueManagement>
 </project>

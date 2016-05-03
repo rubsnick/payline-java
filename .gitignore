@@ -64,6 +64,10 @@ nb-configuration.xml
 .externalToolBuilders
 .projectKnowledge
 
+### Intellj IDEA
+.idea
+.iml
+
 ### Log configuration files
 logback.xml
 
