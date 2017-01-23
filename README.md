@@ -15,7 +15,7 @@ Java 8 or later
 ```xml
 <dependency>
   <groupId>io.payline.payments.processing.client</groupId>
-  <artifactId>payline</artifactId>
+  <artifactId>payline-java</artifactId>
   <version>${version}</version>
 </dependency>
 ```
