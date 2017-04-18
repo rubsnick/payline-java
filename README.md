@@ -3,10 +3,10 @@
 [![Circle CI](https://circleci.com/gh/Payline/payline-java/tree/master.svg?style=svg)](https://circleci.com/gh/Payline/payline-java/tree/master)
 
 ## Usage
-See test class [ProcessingClientScenarioTest](https://github.com/finix-payments/payline-java/blob/master/src/test/java/io/payline/payments/processing/client/ProcessingClientScenarioTest.java) for more details.
+For more details on how to use the client please visit: http://docs.paylinegateway.com/
 
 ## Version history
-- 1.0.0-SNAPSHOT
+- 1.1.0
 
 ## Requirements
 Java 8 or later
