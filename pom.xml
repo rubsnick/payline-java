@@ -6,7 +6,7 @@
 
     <groupId>io.payline.payments.processing.client</groupId>
     <artifactId>payline-java</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.1.0</version>
     <packaging>jar</packaging>
 
     <name>payline-java</name>
@@ -18,7 +18,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
         <jackson.version>2.6.3</jackson.version>
-        <finix.version>1.0.0-SNAPSHOT</finix.version>
+        <finix.version>1.1.0</finix.version>
     </properties>
 
     <parent>
